@@ -9,8 +9,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap" rel="stylesheet">
 <style>
   body {
-    background-color: #FFF1E5; 
-    color: #33302E;            
+    background-color: #FFF1E5;
+    color: #33302E;
     font-family: 'Cormorant Garamond', Georgia, serif;
     font-size: 20px;
     line-height: 1.5;
@@ -29,7 +29,7 @@
     margin-bottom: 0.4em;
   }
   a {
-    color: #990F3D; /* FT claret */
+    color: #990F3D;
     text-decoration: underline;
   }
   a:hover {
@@ -41,3 +41,27 @@
   li {
     margin-bottom: 0.4em;
   }
+</style>
+</head>
+<body>
+
+<h1>your name</h1>
+
+<p>a short line about who you are.</p>
+
+<p>contact: <a href="mailto:you@example.com">email</a> · <a href="https://twitter.com/yourhandle">twitter</a></p>
+
+<h2>essays</h2>
+<ul>
+  <li><a href="essays/essay-one.pdf">title of essay one</a>: short description. 05/13/2026</li>
+  <li><a href="essays/essay-two.pdf">title of essay two</a>: short description. 04/22/2026</li>
+</ul>
+
+<h2>elsewhere</h2>
+<ul>
+  <li><a href="https://twitter.com/yourhandle">twitter</a></li>
+  <li><a href="https://github.com/ormorley">github</a></li>
+</ul>
+
+</body>
+</html>
